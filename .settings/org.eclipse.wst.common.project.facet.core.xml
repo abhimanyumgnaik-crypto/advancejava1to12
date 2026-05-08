@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
   <runtime name="apache-tomcat-9.0.100"/>
+<<<<<<< HEAD
   <fixed facet="wst.jsdt.web"/>
   <fixed facet="java"/>
   <fixed facet="jst.web"/>
+=======
+  <fixed facet="java"/>
+  <fixed facet="jst.web"/>
+  <fixed facet="wst.jsdt.web"/>
+>>>>>>> branch 'master' of https://github.com/abhimanyumgnaik-crypto/advancejava1to12.git
   <installed facet="java" version="21"/>
   <installed facet="jst.web" version="4.0"/>
   <installed facet="wst.jsdt.web" version="1.0"/>
